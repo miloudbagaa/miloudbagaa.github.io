@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 I am IEEE Senior Member and a Professor with the
 Department of Electrical and Computer Engineering, Université du Québec
-à Trois-Rivières [UQTR](https://oraprdnt.uqtr.uquebec.ca/pls/public/genw050.afficher_fiche_perso?owa_cd_secteur=2600&owa_cd_fonction=1&owa_no_personne=843238&owa_contexte=$2727-85)). I have received the engineering, master’s, and Ph.D.
+à Trois-Rivières [UQTR](https://oraprdnt.uqtr.uquebec.ca/pls/public/genw050.afficher_fiche_perso?owa_cd_secteur=2600&owa_cd_fonction=1&owa_no_personne=843238&owa_contexte=$2727-85). I have received the engineering, master’s, and Ph.D.
 degrees from the University of Science and Technology Houari Boumediene [USTHB](https://www.usthb.dz/), Algiers, Algeria. From 2009 to 2015, I was a Researcher with the Research Center on Scientific and Technical
 Information, Algiers [CERIST](https://www.cerist.dz/index.php/en/). From 2015 to 2016, I was a Postdoctoral Researcher with the Norwegian
 University of Science and Technology, Trondheim,
