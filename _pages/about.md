@@ -26,8 +26,3 @@ Information, Algiers [CERIST](https://www.cerist.dz/index.php/en/). From 2015 to
 University of Science and Technology, Trondheim,
 Norway [NTNU](https://www.ntnu.no). From 2016 to 2019, I was a Postdoctoral Researcher with Aalto University, Espoo, Finland [Aalto](https://www.aalto.fi/en). From 2019 to 2020, I was was a Senior Researcher
 with [Aalto](https://www.aalto.fi/en) University. Last but not least, I was a Visiting Researcher with [Aalto](https://www.aalto.fi/en) University and a Senior System Cloud Specialist with [CSC](https://csc.fi), from October 2020 to November 2022. 
-
-
-# Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-# Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
