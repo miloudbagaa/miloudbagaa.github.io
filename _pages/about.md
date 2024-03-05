@@ -9,9 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Miloud Bagaa, Ph.D | IEEE Senior Member | Professeur</p>
+    <p>Département de génie électrique et génie informatique | École d’ingénierie | UQTR</p>
+    <p>819 376-5011, poste 4444 | www.uqtr.ca</p>
+    <p>3351, boul. des Forges, C.P. 500, Trois-Rivières (Québec) G9A 5H7 | Local 2463 L-P</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
