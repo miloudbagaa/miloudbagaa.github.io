@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: <a href='https://oraprdnt.uqtr.uquebec.ca/pls/public/genw050.afficher_fiche_perso?owa_cd_secteur=2600&owa_cd_fonction=1&owa_no_personne=843238&owa_contexte=$2727-85'>Affiliations</a>. 3351, boul. des Forges, C.P. 500, Trois-Rivières (Québec) G9A 5H7 | Local 2463 L-P.
 
