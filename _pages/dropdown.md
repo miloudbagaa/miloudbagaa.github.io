@@ -11,6 +11,6 @@
 #   - title: projects
 #     permalink: /projects/
 #   - title: divider
-#   - title: blog
+#   - title: Implementations
 #     permalink: /blog/
 ---
