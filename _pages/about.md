@@ -9,9 +9,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>IEEE Senior Member | Professeur</p>
+    <p> IEEE Senior Member </p>
+    <p> Professeur </p>
     <p> UQTR | www.uqtr.ca</p>
-    <p>Trois-Rivières (Québec) | Local 2463 L-P</p>
+    <p> Trois-Rivières (Québec) </p>
+    <p> Local 2463 L-P </p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
