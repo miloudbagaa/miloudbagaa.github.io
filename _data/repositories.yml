@@ -13,4 +13,16 @@ github_repos:
   - CSCfi/ansible-role-dell-firmware-upgrade
   - CSCfi/puppet-opsviewagent
   - CSCfi/cccp-ops-contrib
+  - miloudbagaa/Full-Stack-React-Projects-Third-Edition
+  - miloudbagaa/Terraform-Cookbook-Second-Edition
+  - miloudbagaa/Game-Development-with-Rust-and-WebAssembly
+  - miloudbagaa/Practical-Computer-Architecture-with-Python-and-ARM
+  - miloudbagaa/reinforcement-learning-an-introduction
+  - miloudbagaa/deep-learning-v2-pytorch
+  - miloudbagaa/Mastering-Embedded-Linux-Programming
+  - miloudbagaa/Mastering-Embedded-Linux-Programming-Second-Edition
+  - miloudbagaa/Mastering-Embedded-Linux-Programming-Third-Edition
+  - miloudbagaa/wasi-nn-onnx
+  - miloudbagaa/lectures
+  - miloudbagaa/awesome-deep-learning-papers
 
