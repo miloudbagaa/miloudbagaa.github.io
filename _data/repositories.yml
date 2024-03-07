@@ -8,3 +8,9 @@ github_repos:
   - miloudbagaa/WAIT
   - miloudbagaa/the-incredible-pytorch
   - miloudbagaa/reinforcement-learning-an-introduction
+  - CSCfi/CSCfi/ansible-role-vms-before-ceph-client
+  - CSCfi/csc-user-guide
+  - CSCfi/ansible-role-dell-firmware-upgrade
+  - CSCfi/puppet-opsviewagent
+  - CSCfi/cccp-ops-contrib
+  
