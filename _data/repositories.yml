@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - miloudbagaa
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - miloudbagaa/python_skeleton
+  - miloudbagaa/markdown-documentation-template
+  - miloudbagaa/cloud-bandwidth
+  - miloudbagaa/WAIT
+  - miloudbagaa/the-incredible-pytorch
+  - miloudbagaa/reinforcement-learning-an-introduction
