@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: I teach these courses annually, either in the autumn or winter session. Further details about the courses can be found on the [UQTR University website](https://oraprdnt.uqtr.uquebec.ca/pls/public/pgmw000.afficher_page_accueil?owa_type=C).
 nav: true
 nav_order: 6
 ---
