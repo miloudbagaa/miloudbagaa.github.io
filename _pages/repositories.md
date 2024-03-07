@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: Repositories
 description: Our website exclusively showcases public repositories, offering a diverse array of openly accessible projects. It's important to note that numerous private repositories remain undisclosed due to varying confidentiality agreements in place.
 nav: true
 nav_order: 4
