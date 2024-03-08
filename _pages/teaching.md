@@ -2,12 +2,14 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: I teach these courses annually, either in the autumn or winter session. Further details about the courses can be found on the [UQTR University website](https://oraprdnt.uqtr.uquebec.ca/pls/public/pgmw000.afficher_page_accueil?owa_type=C).
+description:
 nav: true
 nav_order: 6
 ---
 
 [comment]: <> (For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course. Organize your courses by years, topics, or universities, however you like!)
+
+I teach these courses annually, either in the autumn or winter session. Further details about the courses can be found on the [UQTR University website](https://oraprdnt.uqtr.uquebec.ca/pls/public/pgmw000.afficher_page_accueil?owa_type=C).
 
 # GEI1072: Engineering problem-solving in C
 
