@@ -27,4 +27,15 @@ profiles:
 #      <p>555 your office number</p>
 #      <p>123 your address street</p>
 #      <p>Your City, State 12345</p>
+
+  - align: right
+    image: prof.jpeg
+    content: about_abderrahmane_boulahdour.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p> Ph.D. Candidate</p>
+      <p> Ex-Cloud/DevOps engineer</p>
+      <p> UQTR | www.uqtr.ca</p>
+      <p> Trois-Rivières (Québec) </p>
+      <p>Local 2463 L-P</p>
 ---

@@ -226,14 +226,14 @@ keep_files:
 
 # Plug-ins
 plugins:
-  - jekyll-archives
+  # - jekyll-archives
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-get-json
   - jekyll-imagemagick
   - jekyll-jupyter-notebook
   - jekyll-link-attributes
-  - jekyll-minifier
+  # - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll/scholar
   - jekyll-sitemap
